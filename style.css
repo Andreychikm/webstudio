@@ -177,8 +177,9 @@
     align-items: center;
     padding-top: 289px;
     width: 1600px;
-    height: 1001px;
+    height: 711px;
     background: #FFF9EA;
+    background-image: url(img/Mask\ Group.png);
 }
 .text-6{
     
@@ -204,4 +205,30 @@
 
 .button1{
     padding-top: 40px;
+}
+
+.say{
+    height: 1001px;
+    width: 1600px;
+    background: #ffffff;
+}
+.text-8{
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 232px;
+    color: #1E266D;
+}
+
+.user-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 372px;
+    height: 467px;
+    border: 1px solid #45588033
 }
