@@ -223,12 +223,57 @@
     color: #1E266D;
 }
 
+.group-2{
+    display: flex;
+    
+    padding-left: 210px;
+}
+.ramki{
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+}
 .user-1{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 56px;
     width: 372px;
     height: 467px;
     border: 1px solid #45588033
+}
+
+.text-9{
+    font-family: "Poppins";
+    font-family: Halyard Text;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32.4px;
+    letter-spacing: 0%;
+    color: #1E266D;
+
+}   
+.ava{
+    padding-top: 36px;
+}
+.happy{
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27.5px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #1E266D;
+    padding-top: 23px;
+}
+
+.club{
+    font-family: Halyard Display;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27.5px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #1E266D;
 }
