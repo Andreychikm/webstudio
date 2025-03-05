@@ -208,6 +208,7 @@
 }
 
 .say{
+    
     height: 1001px;
     width: 1600px;
     background: #ffffff;
@@ -277,3 +278,5 @@
     text-align: center;
     color: #1E266D;
 }
+
+
