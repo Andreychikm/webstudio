@@ -320,3 +320,52 @@
     color: #FFFFFF;
     padding-right: 211px;
 }
+
+.grt-1{
+    padding-top: 128px;
+    
+}
+.grt-2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.lot-text{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.text-12{
+    padding-top: 32px;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 145%;
+    letter-spacing: 0%;
+    color: #455880;
+}
+.prev{
+    display: flex;
+    
+    
+}
+.pages{
+    padding-top: 124px;
+    padding-left: 184px;
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    color: #1E266D;
+}
+.home{
+    padding-left: 184px;
+    padding-top: 22px;
+    font-family: Halyard Text;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 225%;
+    letter-spacing: 0%;
+    color: #455880;
+}
