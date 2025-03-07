@@ -369,3 +369,66 @@
     letter-spacing: 0%;
     color: #455880;
 }
+
+.group-4{
+    display: flex;
+}
+
+.resor{
+    padding-top: 124px;
+    padding-left: 120px;
+}
+.resourses{
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    color: #1E266D;
+
+}
+
+.logob{
+    padding-top: 31px;
+}
+
+.now{
+    padding-top: 24px;
+    font-family: "Poppins";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 225%;
+    letter-spacing: 0%;
+    color: #455880;
+}
+
+.copyring{
+    display: flex;
+    padding-top: 121px;
+    
+    
+}
+.text-13{
+    font-family: Halyard Text;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    color: #45588080;
+
+}
+
+.group-5{
+    display: flex;
+    padding-left: 750px;
+    gap: 30px;
+}
+.alls{
+    font-family: Halyard Text;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: right;
+            color: #455880;
+}
